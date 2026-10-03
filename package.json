@@ -1,0 +1,17 @@
+{
+  "name": "blog-console-project",
+  "version": "1.0.0",
+  "description": "A role-based blog management console application using Node.js and MySQL.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check index.js && node --check src/db.js && node --check src/services.js && node --check src/cli.js && node --check src/models/User.js && node --check src/models/Blog.js && node --check src/models/index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.6.1",
+    "mysql2": "^3.24.4",
+    "sequelize": "^6.37.8"
+  }
+}
