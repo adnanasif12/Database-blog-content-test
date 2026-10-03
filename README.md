@@ -70,6 +70,6 @@ npm run check
 
 ## Project Demonstration
 
-Demo video: **Add the uploaded recording link here.**
+Demo video: https://drive.google.com/file/d/1d3hJI20swrl4e5_01HUpUTA6CjJazYLF/view?usp=drive_link
 
-Record a voice-narrated walkthrough showing public blog viewing, registration/login, user blog CRUD, admin user/blog management, and the deactivated-user login message. Upload the video to a shareable location, then replace the placeholder above with its link.
+This video demonstrates the blog console app workflow, including public blog viewing, registration/login, user blog CRUD, admin management, and the deactivated-user login scenario.
